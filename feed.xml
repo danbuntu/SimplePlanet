@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.8.0-dev (info@mypapit.net)" -->
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://danattwood.homelinux.com/rss/">
+        <title>Planet MKC</title>
+        <description>Test combinded rss feed</description>
+        <link>http://danattwood.homelinux.com/rss/</link>
+        <image rdf:resource="./images/logo.gif" />
+       <dc:date>2011-03-23T19:57:50+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://mahara.midkent.ac.uk/view/artefact.php?artefact=3925&amp;amp;view=138"/>
+                <rdf:li rdf:resource="http://mahara.midkent.ac.uk/view/artefact.php?artefact=3867&amp;amp;view=138"/>
+                <rdf:li rdf:resource="http://mahara.midkent.ac.uk/view/artefact.php?artefact=3704&amp;amp;view=138"/>
+                <rdf:li rdf:resource="http://mahara.midkent.ac.uk/view/artefact.php?artefact=3484&amp;amp;view=138"/>
+                <rdf:li rdf:resource="http://mahara.midkent.ac.uk/view/artefact.php?artefact=3470&amp;amp;view=138"/>
+                <rdf:li rdf:resource="http://mahara.midkent.ac.uk/view/artefact.php?artefact=3405&amp;amp;view=138"/>
+                <rdf:li rdf:resource="http://mahara.midkent.ac.uk/view/artefact.php?artefact=3322&amp;amp;view=138"/>
+                <rdf:li rdf:resource="http://mahara.midkent.ac.uk/view/artefact.php?artefact=3263&amp;amp;view=138"/>
+                <rdf:li rdf:resource="http://mahara.midkent.ac.uk/view/artefact.php?artefact=2915&amp;amp;view=138"/>
+                <rdf:li rdf:resource="http://mahara.midkent.ac.uk/view/artefact.php?artefact=2459&amp;amp;view=138"/>
+                <rdf:li rdf:resource="http://mahara.midkent.ac.uk/view/artefact.php?artefact=2446&amp;amp;view=17"/>
+                <rdf:li rdf:resource="http://mahara.midkent.ac.uk/view/artefact.php?artefact=2441&amp;amp;view=138"/>
+                <rdf:li rdf:resource="http://mahara.midkent.ac.uk/view/artefact.php?artefact=1790&amp;amp;view=17"/>
+                <rdf:li rdf:resource="http://mahara.midkent.ac.uk/view/artefact.php?artefact=1698&amp;amp;view=138"/>
+                <rdf:li rdf:resource="http://mahara.midkent.ac.uk/view/artefact.php?artefact=972&amp;amp;view=17"/>
+                <rdf:li rdf:resource="http://mahara.midkent.ac.uk/view/artefact.php?artefact=732&amp;amp;view=138"/>
+                <rdf:li rdf:resource="http://mahara.midkent.ac.uk/view/artefact.php?artefact=718&amp;amp;view=17"/>
+                <rdf:li rdf:resource="http://mahara.midkent.ac.uk/view/artefact.php?artefact=412&amp;amp;view=138"/>
+                <rdf:li rdf:resource="http://mahara.midkent.ac.uk/view/artefact.php?artefact=40&amp;amp;view=17"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="./images/logo.gif">
+        <title>Planet MKC logo</title>
+        <link>http://danattwood.homelinux.com/rss/</link>
+        <url>./images/logo.gif</url>
+    </image>
+    <item rdf:about="http://mahara.midkent.ac.uk/view/artefact.php?artefact=3925&amp;amp;view=138">
+        <dc:format>text/html</dc:format>
+        <dc:date>1970-01-01T00:00:00+00:00</dc:date>
+        <dc:source>dd0b87cb18265dc5867d9128200f7565</dc:source>
+        <dc:creator>a336c3a741ea4cd2f978ebba5da28105</dc:creator>
+        <title>TV Programmes Available for Class</title>
+        <link>http://mahara.midkent.ac.uk/view/artefact.php?artefact=3925&amp;amp;view=138</link>
+        <description>&lt;table border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;100%&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td valign=&quot;top&quot;&gt;
+&lt;table border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;100%&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td valign=&quot;top&quot;&gt;
+&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span&gt;&lt;span&gt;Programmes on OneLan&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&quot;top&quot;&gt;
+&lt;table border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;100%&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td valign=&quot;top&quot;&gt;
+&lt;div&gt;Type ‘video’ in web address bar&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;ul&gt;&lt;li&gt;Click the 'filmstrip' icon  &lt;/li&gt;
+&lt;li&gt;Click required channel or use search facility &lt;/li&gt;
+&lt;li&gt;Click your programme to start the recording&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;To request a programme recording please e-mail at the following address: &lt;a href=&quot;mailto:kathleen.carmichael@midkent.ac.uk%C2%A0&quot;&gt;&lt;strong&gt;&lt;span&gt;kathleen.carmichael@midkent.ac.uk&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item rdf:about="http://mahara.midkent.ac.uk/view/artefact.php?artefact=3867&amp;amp;view=138">
+        <dc:format>text/html</dc:format>
+        <dc:date>1970-01-01T00:00:00+00:00</dc:date>
+        <dc:source>dd0b87cb18265dc5867d9128200f7565</dc:source>
+        <dc:creator>a336c3a741ea4cd2f978ebba5da28105</dc:creator>
+        <title>e-Learning Training at Easter</title>
+        <link>http://mahara.midkent.ac.uk/view/artefact.php?artefact=3867&amp;amp;view=138</link>
+        <description>&lt;p&gt;Look out for e-Learning training to appear on the CPD calendar:&lt;/p&gt;
+&lt;p&gt;Monday 11th PM - online e-Learning webinar (join the session from anywhere)!&lt;/p&gt;
+&lt;p&gt;Tues 12th  and Wed 13th - a combination of:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt; Basic Moodle,&lt;/li&gt;
+&lt;li&gt; Basic PLP,&lt;/li&gt;
+&lt;li&gt;VShare (our own YouTube),&lt;/li&gt;
+&lt;li&gt;Xerte (create your own online interactive learning objects)&lt;/li&gt;
+&lt;li&gt;Using the online assignment uploading module in Moodle&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;A link with more info and booking links will be made available as soon as possible.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</description>
+    </item>
+    <item rdf:about="http://mahara.midkent.ac.uk/view/artefact.php?artefact=3704&amp;amp;view=138">
+        <dc:format>text/html</dc:format>
+        <dc:date>1970-01-01T00:00:00+00:00</dc:date>
+        <dc:source>dd0b87cb18265dc5867d9128200f7565</dc:source>
+        <dc:creator>a336c3a741ea4cd2f978ebba5da28105</dc:creator>
+        <title>5 stage plan to using a VLE</title>
+        <link>http://mahara.midkent.ac.uk/view/artefact.php?artefact=3704&amp;amp;view=138</link>
+        <description>&lt;p&gt;This link is useful, but I would look at stages 3 and 4 as interchangeable depending on what is most useful for your students:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://elearningstuff.net/2010/03/20/a-five-stage-model-for-using-the-vle/&quot;&gt;http://elearningstuff.net/2010/03/20/a-five-stage-model-for-using-the-vle/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item rdf:about="http://mahara.midkent.ac.uk/view/artefact.php?artefact=3484&amp;amp;view=138">
+        <dc:format>text/html</dc:format>
+        <dc:date>1970-01-01T00:00:00+00:00</dc:date>
+        <dc:source>dd0b87cb18265dc5867d9128200f7565</dc:source>
+        <dc:creator>a336c3a741ea4cd2f978ebba5da28105</dc:creator>
+        <title>New Mahara training and info page</title>
+        <link>http://mahara.midkent.ac.uk/view/artefact.php?artefact=3484&amp;amp;view=138</link>
+        <description>&lt;p&gt;Visit Carol Wrycraft's page on Mahara - how to videos and ideas:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a title=&quot;Mahara training&quot; href=&quot;http://mahara.midkent.ac.uk/view/view.php?t=iWhHeZM1CtmLKUs79yJf&quot;&gt;CLICK HERE&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item rdf:about="http://mahara.midkent.ac.uk/view/artefact.php?artefact=3470&amp;amp;view=138">
+        <dc:format>text/html</dc:format>
+        <dc:date>1970-01-01T00:00:00+00:00</dc:date>
+        <dc:source>dd0b87cb18265dc5867d9128200f7565</dc:source>
+        <dc:creator>a336c3a741ea4cd2f978ebba5da28105</dc:creator>
+        <title>Award/Medal notification</title>
+        <link>http://mahara.midkent.ac.uk/view/artefact.php?artefact=3470&amp;amp;view=138</link>
+        <description>&lt;p&gt;Students will now get automatic notification of any awards or medals assigned through the PLP &lt;img title=&quot;Laughing&quot; src=&quot;http://mahara.midkent.ac.uk/js/tinymce/plugins/emotions/img/smiley-laughing.gif&quot; border=&quot;0&quot; alt=&quot;Laughing&quot; /&gt;&lt;/p&gt;</description>
+    </item>
+    <item rdf:about="http://mahara.midkent.ac.uk/view/artefact.php?artefact=3405&amp;amp;view=138">
+        <dc:format>text/html</dc:format>
+        <dc:date>1970-01-01T00:00:00+00:00</dc:date>
+        <dc:source>dd0b87cb18265dc5867d9128200f7565</dc:source>
+        <dc:creator>a336c3a741ea4cd2f978ebba5da28105</dc:creator>
+        <title>Changes to routine ICT evening cover</title>
+        <link>http://mahara.midkent.ac.uk/view/artefact.php?artefact=3405&amp;amp;view=138</link>
+        <description>&lt;p&gt;As a result of cost savings, ICT from next week will no longer be able to provide permanent late shifts at either site (5pm-7pm). &lt;/p&gt;
+&lt;p&gt;ICT will be able to provide specific evening cover after 5pm if informed beforehand.  These requests for specific cover should go through the ICT Helpdesk with as much notice as possible.&lt;/p&gt;</description>
+    </item>
+    <item rdf:about="http://mahara.midkent.ac.uk/view/artefact.php?artefact=3322&amp;amp;view=138">
+        <dc:format>text/html</dc:format>
+        <dc:date>1970-01-01T00:00:00+00:00</dc:date>
+        <dc:source>dd0b87cb18265dc5867d9128200f7565</dc:source>
+        <dc:creator>a336c3a741ea4cd2f978ebba5da28105</dc:creator>
+        <title>Exams/PLP</title>
+        <link>http://mahara.midkent.ac.uk/view/artefact.php?artefact=3322&amp;amp;view=138</link>
+        <description>&lt;p&gt;Exam dates and results are now going to feed automatically to the PLP.  Look for the tabs at the top of the PLP.&lt;/p&gt;</description>
+    </item>
+    <item rdf:about="http://mahara.midkent.ac.uk/view/artefact.php?artefact=3263&amp;amp;view=138">
+        <dc:format>text/html</dc:format>
+        <dc:date>1970-01-01T00:00:00+00:00</dc:date>
+        <dc:source>dd0b87cb18265dc5867d9128200f7565</dc:source>
+        <dc:creator>a336c3a741ea4cd2f978ebba5da28105</dc:creator>
+        <title>PLP-Medals/Badges</title>
+        <link>http://mahara.midkent.ac.uk/view/artefact.php?artefact=3263&amp;amp;view=138</link>
+        <description>&lt;p&gt;There are a range on new medals and badges available for the PLP.  This includes a 'Red Nose' for participation in comic relief events.&lt;/p&gt;</description>
+    </item>
+    <item rdf:about="http://mahara.midkent.ac.uk/view/artefact.php?artefact=2915&amp;amp;view=138">
+        <dc:format>text/html</dc:format>
+        <dc:date>1970-01-01T00:00:00+00:00</dc:date>
+        <dc:source>dd0b87cb18265dc5867d9128200f7565</dc:source>
+        <dc:creator>a336c3a741ea4cd2f978ebba5da28105</dc:creator>
+        <title>Hi5 Award Winners</title>
+        <link>http://mahara.midkent.ac.uk/view/artefact.php?artefact=2915&amp;amp;view=138</link>
+        <description>&lt;p&gt;Yesterday evening Dan and Rebecca Attwood won a Hi5 e-Learning Award in the Learner Support Advanced category.  Thanks go to all the staff who supported and contributed to the development of the online resource for CAST.&lt;/p&gt;</description>
+    </item>
+    <item rdf:about="http://mahara.midkent.ac.uk/view/artefact.php?artefact=2459&amp;amp;view=138">
+        <dc:format>text/html</dc:format>
+        <dc:date>1970-01-01T00:00:00+00:00</dc:date>
+        <dc:source>dd0b87cb18265dc5867d9128200f7565</dc:source>
+        <dc:creator>a336c3a741ea4cd2f978ebba5da28105</dc:creator>
+        <title>Are you ready for online learning?</title>
+        <link>http://mahara.midkent.ac.uk/view/artefact.php?artefact=2459&amp;amp;view=138</link>
+        <description>&lt;p&gt;Try out this Moodle course on the uses of Interactive Whiteboards created and supplied by our JISC Regional Support Centre (RSC).  We have all the tools (or equivalent) at MidKent used in this online course.  When you are going through this course think about how you might create something similar for your own students:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://moodle.midkent.ac.uk/course/view.php?id=978&amp;amp;edit=0&amp;amp;sesskey=ZjeosyIgJC&quot;&gt;http://moodle.midkent.ac.uk/course/view.php?id=978&amp;amp;edit=0&amp;amp;sesskey=ZjeosyIgJC&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item rdf:about="http://mahara.midkent.ac.uk/view/artefact.php?artefact=2446&amp;amp;view=17">
+        <dc:format>text/html</dc:format>
+        <dc:date>1970-01-01T00:00:00+00:00</dc:date>
+        <dc:source>3dbfa38be6f134bd5b5e13dff62ca444</dc:source>
+        <dc:creator>8e6e4764dea2d4baf9346d1623041f8e</dc:creator>
+        <title>automation</title>
+        <link>http://mahara.midkent.ac.uk/view/artefact.php?artefact=2446&amp;amp;view=17</link>
+        <description>&lt;p&gt;The new system for emailing out alerts to students when their attendance starts to drop is slowy coming together.&lt;/p&gt;
+&lt;p&gt;It took a good while to get my head around how it was going to work but then I just started to get stuck in and it started to fall into place. I've made heavy use of functions on this one as I'm pretty sure I'm going to be asked to expand on it and wanted to get flexibility in from the outset.&lt;/p&gt;
+&lt;p&gt;The new exams pages for the PLP are also done. This will display the students current signup on exams and also their results. The information is currently being checked over and then it will go live for the first set of AS results.&lt;/p&gt;</description>
+    </item>
+    <item rdf:about="http://mahara.midkent.ac.uk/view/artefact.php?artefact=2441&amp;amp;view=138">
+        <dc:format>text/html</dc:format>
+        <dc:date>1970-01-01T00:00:00+00:00</dc:date>
+        <dc:source>dd0b87cb18265dc5867d9128200f7565</dc:source>
+        <dc:creator>a336c3a741ea4cd2f978ebba5da28105</dc:creator>
+        <title>New PowerPoint</title>
+        <link>http://mahara.midkent.ac.uk/view/artefact.php?artefact=2441&amp;amp;view=138</link>
+        <description>&lt;p&gt;A new Connect 4 has been added to the Interactive PowerPoint folder on the Teachers' Tool Kit on Moodle. (Thanks to Alan Amith from Esol for sending this in).&lt;/p&gt;</description>
+    </item>
+    <item rdf:about="http://mahara.midkent.ac.uk/view/artefact.php?artefact=1790&amp;amp;view=17">
+        <dc:format>text/html</dc:format>
+        <dc:date>1970-01-01T00:00:00+00:00</dc:date>
+        <dc:source>3dbfa38be6f134bd5b5e13dff62ca444</dc:source>
+        <dc:creator>8e6e4764dea2d4baf9346d1623041f8e</dc:creator>
+        <title>slidey boxes</title>
+        <link>http://mahara.midkent.ac.uk/view/artefact.php?artefact=1790&amp;amp;view=17</link>
+        <description>&lt;p&gt;After a couple of days I've got the new jquery UI framework into the Moodle PLPs. It's performing much better then the old yui framework and has also sorted out a couple of problems.&lt;/p&gt;
+&lt;p&gt;We can also now do tabs for extra content which as needed as the extra features were beginning to crowd the page a bit.&lt;/p&gt;
+&lt;p&gt;Just  a few last little bugs to fix.&lt;/p&gt;</description>
+    </item>
+    <item rdf:about="http://mahara.midkent.ac.uk/view/artefact.php?artefact=1698&amp;amp;view=138">
+        <dc:format>text/html</dc:format>
+        <dc:date>1970-01-01T00:00:00+00:00</dc:date>
+        <dc:source>dd0b87cb18265dc5867d9128200f7565</dc:source>
+        <dc:creator>a336c3a741ea4cd2f978ebba5da28105</dc:creator>
+        <title>Moodle Texting</title>
+        <link>http://mahara.midkent.ac.uk/view/artefact.php?artefact=1698&amp;amp;view=138</link>
+        <description>&lt;p&gt;There is now the availability to text straight from Moodle.  To do this put in a request via the ICT helpdesk to have this option activiated.  You need to list the Moodle course/s that you require the ability to text from.  The Moodle text block will then be available to you.&lt;/p&gt;
+&lt;p&gt;When you are set up, if you want help in using the texting service contact me for help.&lt;/p&gt;</description>
+    </item>
+    <item rdf:about="http://mahara.midkent.ac.uk/view/artefact.php?artefact=972&amp;amp;view=17">
+        <dc:format>text/html</dc:format>
+        <dc:date>1970-01-01T00:00:00+00:00</dc:date>
+        <dc:source>3dbfa38be6f134bd5b5e13dff62ca444</dc:source>
+        <dc:creator>8e6e4764dea2d4baf9346d1623041f8e</dc:creator>
+        <title>You got email</title>
+        <link>http://mahara.midkent.ac.uk/view/artefact.php?artefact=972&amp;amp;view=17</link>
+        <description>&lt;p&gt;We had some minor problems with email on moodle/ mahara today.&lt;/p&gt;
+&lt;p&gt;We had been using Mercury mail but trail ran out and so the service wouldn't start. Give the spending cuts and my own support for open source it was time to hit sourceforge.net and start hunting around.&lt;/p&gt;
+&lt;p&gt;I tried several programs but settled on 'emailrelay' which does exactly what it says on the tin. Now emails are instantly passed on to our exchange server for delivery.  So far so good.&lt;/p&gt;
+&lt;p&gt;Track of the day:  Obey the moderator - Optimus Rhyme&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</description>
+    </item>
+    <item rdf:about="http://mahara.midkent.ac.uk/view/artefact.php?artefact=732&amp;amp;view=138">
+        <dc:format>text/html</dc:format>
+        <dc:date>1970-01-01T00:00:00+00:00</dc:date>
+        <dc:source>dd0b87cb18265dc5867d9128200f7565</dc:source>
+        <dc:creator>a336c3a741ea4cd2f978ebba5da28105</dc:creator>
+        <title>Updating PLPs for groups</title>
+        <link>http://mahara.midkent.ac.uk/view/artefact.php?artefact=732&amp;amp;view=138</link>
+        <description>&lt;p&gt;The PLPs can be updated by groups instead of individuals.  See the attached handout and there is a video training link to follow.&lt;/p&gt;</description>
+    </item>
+    <item rdf:about="http://mahara.midkent.ac.uk/view/artefact.php?artefact=718&amp;amp;view=17">
+        <dc:format>text/html</dc:format>
+        <dc:date>1970-01-01T00:00:00+00:00</dc:date>
+        <dc:source>3dbfa38be6f134bd5b5e13dff62ca444</dc:source>
+        <dc:creator>8e6e4764dea2d4baf9346d1623041f8e</dc:creator>
+        <title>MoodleTxt</title>
+        <link>http://mahara.midkent.ac.uk/view/artefact.php?artefact=718&amp;amp;view=17</link>
+        <description>&lt;p&gt;Well it's taken a while but I've managed to fixed multiple problems with MoodleTxt. I have also written a bridging script to pull in mobile numbers from NG into Moodle.&lt;/p&gt;
+&lt;p&gt;Now tutors will be able to text directly from Moodle to students to allert them of changes to rooms, remind them about asignements or events and any number of useful things.&lt;/p&gt;</description>
+    </item>
+    <item rdf:about="http://mahara.midkent.ac.uk/view/artefact.php?artefact=412&amp;amp;view=138">
+        <dc:format>text/html</dc:format>
+        <dc:date>1970-01-01T00:00:00+00:00</dc:date>
+        <dc:source>dd0b87cb18265dc5867d9128200f7565</dc:source>
+        <dc:creator>a336c3a741ea4cd2f978ebba5da28105</dc:creator>
+        <title>VShare</title>
+        <link>http://mahara.midkent.ac.uk/view/artefact.php?artefact=412&amp;amp;view=138</link>
+        <description>&lt;p&gt;VShare is MidKent's own internal YouTube!  Staff check out Rosie's email signature for links to handouts and video training clip.&lt;/p&gt;</description>
+    </item>
+    <item rdf:about="http://mahara.midkent.ac.uk/view/artefact.php?artefact=40&amp;amp;view=17">
+        <dc:format>text/html</dc:format>
+        <dc:date>1970-01-01T00:00:00+00:00</dc:date>
+        <dc:source>3dbfa38be6f134bd5b5e13dff62ca444</dc:source>
+        <dc:creator>8e6e4764dea2d4baf9346d1623041f8e</dc:creator>
+        <title>Welcome to Mahara</title>
+        <link>http://mahara.midkent.ac.uk/view/artefact.php?artefact=40&amp;amp;view=17</link>
+        <description>&lt;div&gt;&lt;strong&gt;&lt;a href=&quot;http://mahara.midkent.ac.uk/artefact/blog/view/?id=39&quot;&gt;Welcome to Mahara&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;
+&lt;p&gt;It's taken a while but we finally have a Mahara install  up and running. We've had to make a number of server changes and google  like crazy to set up OpenSSL but we got there.&lt;/p&gt;
+&lt;p&gt;Next stop is learning how to use it!&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+</rdf:RDF>

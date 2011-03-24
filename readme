@@ -1,0 +1,33 @@
+SimplePie 1.0 by Dan Attwood 2011 - danattwood@gmail.com
+
+
+Legal
+-------------
+I hereby release my changes made into SimplePie 1.7.2 under the terms of the GNU Lesser General Public License (GNU/LGPL)
+
+Prerequisites
+------------
+A web server
+PHP
+MySQL
+
+
+Install
+-------------
+
+Copy the files to a web available location
+Make sure that the cache and feed.xml files are writeable by the web server
+Run the database.sql script to create planet_rss database and tables
+Open and edit the config.php file as needed
+
+Go to yoursiteurl/manage_feeds.php to add/ delete new feeds and users
+
+The default username is 'admin' and the default password is 'simple'
+I recommend that you create a new admin user and delete the default one
+
+
+Notes
+---------
+
+I originally created this for the Mahara e-portfolio system. However the rss feeds that Mahara generates don't play nicely with simplepie or magpie. I therefore had to create Feedburner feeds from the Mahara ones and feed these feeds into SimplePlanet
+
